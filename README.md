@@ -10,19 +10,20 @@ Skripsi: Model Autoregressive Distributed Lag dalam Analisis Sensitivitas Produk
 
 📌 Proyek
 🌾 Model Prediksi Indeks Ketahanan Pangan (IKP) dengan Random Forest Regression
-- Okt 2025 – Des 2025 | Proyek Kelompok
+(Okt 2025 – Des 2025 | Proyek Kelompok)
 
-Menyusun alur data preprocessing, analisis, dan visualisasi menggunakan Python untuk mendukung pengembangan model
-Mengevaluasi kelayakan dan efektivitas Random Forest Regression dalam memprediksi IKP, serta berkontribusi dalam penulisan bagian hasil dan pembahasan
-Tools: Python (Pandas, Scikit-learn, Matplotlib)
+- Menyusun alur data preprocessing, analisis, dan visualisasi menggunakan Python untuk mendukung pengembangan model
+- Mengevaluasi kelayakan dan efektivitas Random Forest Regression dalam memprediksi IKP, serta berkontribusi dalam penulisan bagian hasil dan pembahasan
+- Tools: Python (Pandas, Scikit-learn, Matplotlib)
 
 🔐 Efektivitas Algoritma SHA-1 dan MD5 dalam Deteksi Keaslian Dokumen PDF
-- Okt 2025 – Des 2025 | Proyek Kelompok
+(Okt 2025 – Des 2025 | Proyek Kelompok)
 
-Membantu implementasi dan analisis algoritma SHA-1 dan MD5 menggunakan Python untuk mendeteksi keaslian dokumen PDF
-Berkontribusi dalam penulisan bagian hasil dan pembahasan terkait perbandingan keamanan dan kecepatan SHA-1 dan MD5 sebagai mekanisme verifikasi digital
-Tools: Python, IgorWare Hasher x64
+- Membantu implementasi dan analisis algoritma SHA-1 dan MD5 menggunakan Python untuk mendeteksi keaslian dokumen PDF
+- Berkontribusi dalam penulisan bagian hasil dan pembahasan terkait perbandingan keamanan dan kecepatan SHA-1 dan MD5 sebagai mekanisme verifikasi digital
+- Tools: Python, IgorWare Hasher x64
 
+🌦️ ARDL untuk Sensitivitas Iklim terhadap Produksi Pangan
 Implementasi model ARDL untuk analisis sensitivitas produksi padi dan jagung terhadap variabilitas iklim di Jawa Tengah, meliputi uji stasioneritas, uji multikolinearitas (VIF), pemilihan lag, uji kointegrasi, estimasi ECM (short-run & long-run), dan uji diagnostik. (pin repo ini biar muncul di atas profil)
 
 🛠️ Skills
@@ -37,6 +38,7 @@ Implementasi model ARDL untuk analisis sensitivitas produksi padi dan jagung ter
 - Staf Divisi Talent Management — Math Award 2024 (Nov 2024)
 - Bendahara, Divisi Logistik & Konsumsi — E-Math 2024 (Mei 2024 – Sep 2024)
 - Staf Divisi Kompetisi — Mathleague (Okt 2023 – Feb 2024)
+  
 📫 Kontak
 📧 salsakhairunnisa59@gmail.com
 💼 linkedin.com/in/s-khairunnisa
