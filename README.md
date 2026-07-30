@@ -23,7 +23,6 @@ Okt 2025 – Des 2025 | Proyek Kelompok
 Membantu implementasi dan analisis algoritma SHA-1 dan MD5 menggunakan Python untuk mendeteksi keaslian dokumen PDF
 Berkontribusi dalam penulisan bagian hasil dan pembahasan terkait perbandingan keamanan dan kecepatan SHA-1 dan MD5 sebagai mekanisme verifikasi digital
 Tools: Python, IgorWare Hasher x64
-🌦️ [Nama Repo Skripsi] — ARDL untuk Sensitivitas Iklim terhadap Produksi Pangan
 
 Implementasi model ARDL untuk analisis sensitivitas produksi padi dan jagung terhadap variabilitas iklim di Jawa Tengah, meliputi uji stasioneritas, uji multikolinearitas (VIF), pemilihan lag, uji kointegrasi, estimasi ECM (short-run & long-run), dan uji diagnostik. (pin repo ini biar muncul di atas profil)
 
