@@ -44,5 +44,6 @@ document authenticity verification.
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: https://linkedin.com/in/s-khairunnisa
+- Email: salsakhairunnisa59@gmail.com
+- 
